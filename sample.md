@@ -1,1 +1,1 @@
-Read only
+Sample file
